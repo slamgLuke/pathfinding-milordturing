@@ -1,11 +1,11 @@
 # PathFinding
 
 ## Autores
-> slamgLuke
-> Adrian-Cespedes
-> DavidHerencia
+- slamgLuke
+- Adrian-Cespedes
+- DavidHerencia
 
-## Funcionalidad
+## Algoritmos soportados
 - Dijkstra
 - A*
 - Greedy BFS
